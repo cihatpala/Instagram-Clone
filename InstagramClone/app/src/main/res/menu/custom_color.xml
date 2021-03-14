@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Seçilen itemlerin renkleri değişmediğinden bu sınıf oluşturulmak zorunda kalınmıştır.-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:color="@color/CornflowerBlue"
+        android:state_checked="true"
+        android:title="" /> <!-- Seçilen itemin rengi-->
+
+    <item
+        android:color="@color/Gray"
+        android:state_checked="false"
+        android:title="" /> <!-- Diğer itemlerin rengi-->
+</selector>

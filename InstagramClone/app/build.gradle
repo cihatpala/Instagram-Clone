@@ -38,4 +38,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     //Design Library for Coordinator Layout and Toolbars
+    //Bottom Navigation View Ex Library
+    implementation 'com.github.ittianyu:BottomNavigationViewEx:2.0.4'
+
 }

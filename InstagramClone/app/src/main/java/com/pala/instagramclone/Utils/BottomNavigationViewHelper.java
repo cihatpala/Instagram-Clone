@@ -9,12 +9,12 @@ import androidx.annotation.NonNull;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx;
-import com.pala.instagramclone.LikesActivity;
-import com.pala.instagramclone.MainActivity;
-import com.pala.instagramclone.ProfileActivity;
+import com.pala.instagramclone.Likes.LikesActivity;
+import com.pala.instagramclone.Home.MainActivity;
+import com.pala.instagramclone.Profile.ProfileActivity;
 import com.pala.instagramclone.R;
-import com.pala.instagramclone.SearchActivity;
-import com.pala.instagramclone.ShareActivity;
+import com.pala.instagramclone.Search.SearchActivity;
+import com.pala.instagramclone.Share.ShareActivity;
 
 
 public class BottomNavigationViewHelper {

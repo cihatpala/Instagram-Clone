@@ -1,4 +1,4 @@
-package com.pala.instagramclone;
+package com.pala.instagramclone.Likes;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -10,12 +10,13 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx;
+import com.pala.instagramclone.R;
 import com.pala.instagramclone.Utils.BottomNavigationViewHelper;
 
-public class SearchActivity extends AppCompatActivity {
-    private static final String TAG = "SearchActivity";
-    private Context mContext = SearchActivity.this;
-    private static final int ACTIVITY_NUM = 1;
+public class LikesActivity extends AppCompatActivity {
+    private static final String TAG = "LikesActivity";
+    private Context mContext = LikesActivity.this;
+    private static final int ACTIVITY_NUM = 3;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

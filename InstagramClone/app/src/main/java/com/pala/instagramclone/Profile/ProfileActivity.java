@@ -1,4 +1,4 @@
-package com.pala.instagramclone;
+package com.pala.instagramclone.Profile;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -10,12 +10,13 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx;
+import com.pala.instagramclone.R;
 import com.pala.instagramclone.Utils.BottomNavigationViewHelper;
 
-public class ShareActivity extends AppCompatActivity {
-    private static final String TAG = "ShareActivity";
-    private Context mContext = ShareActivity.this;
-    private static final int ACTIVITY_NUM = 2;
+public class ProfileActivity extends AppCompatActivity {
+    private static final String TAG = "ProfileActivity";
+    private Context mContext = ProfileActivity.this;
+    private static final int ACTIVITY_NUM = 4;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

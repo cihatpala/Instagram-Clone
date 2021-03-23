@@ -1,4 +1,6 @@
-package com.pala.instagramclone;
+package com.pala.instagramclone.Home;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -6,22 +8,22 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
+import com.pala.instagramclone.R;
+import com.pala.instagramclone.Utils.*;
 
 import com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx;
-import com.pala.instagramclone.Utils.BottomNavigationViewHelper;
 
-public class LikesActivity extends AppCompatActivity {
-    private static final String TAG = "LikesActivity";
-    private Context mContext = LikesActivity.this;
-    private static final int ACTIVITY_NUM = 3;
+public class MainActivity extends AppCompatActivity {
+
+    private static final String TAG = "MainActivity";
+    private Context mContext = MainActivity.this;
+    private static final int ACTIVITY_NUM = 0;
 
     @Override
-    protected void onCreate(@Nullable Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.d(TAG, "onCreate: started");
+        Log.d(TAG, "onCreate: starting");
         setupBottomNavigationView();
     }
 

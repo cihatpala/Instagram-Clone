@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\e00510029a02474e6545a60d58a49071\transformed\jetified-BottomNavigationViewEx-2.0.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cihat\.gradle\caches\transforms-3\67075c30864a3c4dab77ed174f9bfbe2\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\184bcb4e097d4d806ded3c9328daf9cc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\0913f619c48769698d8a228315db636f\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\bc82f325fedd96b2353c81b9e1a6f97f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\f3ccf67c81053417535a71251f087450\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\3ccad4947f82a80ee3851e8b05a1c585\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\87724a52e034cb4c8360fcb9a5d4c3ce\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\2479364e8eb513e23e51f2fa2a332688\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\7a887ee0d60a44c92a2e746840d623bf\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\909319b83c3eade907b182e727a817d2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\876d5e5ed508fc83ff9fd8d643f37675\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\7da6fd4783850b358659b834540a92ae\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\91d12d6e798a8ba8f037558f5415e20d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\a86e5df2d75af15fd08a47c96c6ea876\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\d872b53556ce5479e5558ac6dc8567fc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\9856a80340d6f1d436db57b1d96820b3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\bcd7c8504bcbe76c374398eb5a201142\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\4ac7b21a7dc44576d5aa98952c8afa04\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\ca5066e0ab34cbeb7b52128b1cea3d1e\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\87f1604c49916c1bfdc86c48ad17243b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\93c2cccdf2fe0a7c70e6d448ac8c665d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cihat\.gradle\caches\transforms-3\bcf0a7f89a86f6d4f9325650aa793c12\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\7fa2d596a67e18cf5b02ce70329dee22\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\57009df69d93f682248612d29fde1878\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\50c9b79e24d455acf17e324c86361971\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\a0c54e5a5b836c521654eb7d6f24ff04\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\62223cbb74317ef76ff7eb081655286e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\9edb71a4cf70a56b2680b40a306389f2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\e39b423026b1b082f2834f4a58699f46\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\355e167dfdd410190b779add969f15d2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\4ca32d5f74ab7955d4581469f785bca1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\664489175997e7c8631edafd7f36ea1b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\c2317612b034102b495a1a71ecf5b899\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\30158dcefb28381c2c31b45c390a196e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\e00510029a02474e6545a60d58a49071\transformed\jetified-BottomNavigationViewEx-2.0.4\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\e00510029a02474e6545a60d58a49071\transformed\jetified-BottomNavigationViewEx-2.0.4\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cihat\.gradle\caches\transforms-3\67075c30864a3c4dab77ed174f9bfbe2\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cihat\.gradle\caches\transforms-3\67075c30864a3c4dab77ed174f9bfbe2\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\184bcb4e097d4d806ded3c9328daf9cc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\184bcb4e097d4d806ded3c9328daf9cc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\bc82f325fedd96b2353c81b9e1a6f97f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\bc82f325fedd96b2353c81b9e1a6f97f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cihat\.gradle\caches\transforms-3\bcf0a7f89a86f6d4f9325650aa793c12\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cihat\.gradle\caches\transforms-3\bcf0a7f89a86f6d4f9325650aa793c12\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\7fa2d596a67e18cf5b02ce70329dee22\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\7fa2d596a67e18cf5b02ce70329dee22\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Cihat\.gradle\caches\transforms-3\bcf0a7f89a86f6d4f9325650aa793c12\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.pala.instagramclone.Home.MainActivity
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:12:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.pala.instagramclone.Likes.LikesActivity
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:19:9-66
+	android:name
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:19:19-54
+activity#com.pala.instagramclone.Profile.ProfileActivity
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:20:9-70
+	android:name
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:20:19-58
+activity#com.pala.instagramclone.Search.SearchActivity
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:21:19-56
+activity#com.pala.instagramclone.Share.ShareActivity
+ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:22:9-66
+	android:name
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml:22:19-54
+uses-sdk
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\e00510029a02474e6545a60d58a49071\transformed\jetified-BottomNavigationViewEx-2.0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\e00510029a02474e6545a60d58a49071\transformed\jetified-BottomNavigationViewEx-2.0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cihat\.gradle\caches\transforms-3\67075c30864a3c4dab77ed174f9bfbe2\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Cihat\.gradle\caches\transforms-3\67075c30864a3c4dab77ed174f9bfbe2\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\184bcb4e097d4d806ded3c9328daf9cc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Cihat\.gradle\caches\transforms-3\184bcb4e097d4d806ded3c9328daf9cc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\0913f619c48769698d8a228315db636f\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\0913f619c48769698d8a228315db636f\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\bc82f325fedd96b2353c81b9e1a6f97f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\bc82f325fedd96b2353c81b9e1a6f97f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\f3ccf67c81053417535a71251f087450\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\f3ccf67c81053417535a71251f087450\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\3ccad4947f82a80ee3851e8b05a1c585\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\3ccad4947f82a80ee3851e8b05a1c585\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\87724a52e034cb4c8360fcb9a5d4c3ce\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\87724a52e034cb4c8360fcb9a5d4c3ce\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\2479364e8eb513e23e51f2fa2a332688\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\2479364e8eb513e23e51f2fa2a332688\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\7a887ee0d60a44c92a2e746840d623bf\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\7a887ee0d60a44c92a2e746840d623bf\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\909319b83c3eade907b182e727a817d2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\909319b83c3eade907b182e727a817d2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\876d5e5ed508fc83ff9fd8d643f37675\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\876d5e5ed508fc83ff9fd8d643f37675\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\7da6fd4783850b358659b834540a92ae\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Cihat\.gradle\caches\transforms-3\7da6fd4783850b358659b834540a92ae\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\91d12d6e798a8ba8f037558f5415e20d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\91d12d6e798a8ba8f037558f5415e20d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\a86e5df2d75af15fd08a47c96c6ea876\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\a86e5df2d75af15fd08a47c96c6ea876\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\d872b53556ce5479e5558ac6dc8567fc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\d872b53556ce5479e5558ac6dc8567fc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\9856a80340d6f1d436db57b1d96820b3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\9856a80340d6f1d436db57b1d96820b3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\bcd7c8504bcbe76c374398eb5a201142\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\bcd7c8504bcbe76c374398eb5a201142\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\4ac7b21a7dc44576d5aa98952c8afa04\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\4ac7b21a7dc44576d5aa98952c8afa04\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\ca5066e0ab34cbeb7b52128b1cea3d1e\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\ca5066e0ab34cbeb7b52128b1cea3d1e\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\87f1604c49916c1bfdc86c48ad17243b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\87f1604c49916c1bfdc86c48ad17243b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\93c2cccdf2fe0a7c70e6d448ac8c665d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\93c2cccdf2fe0a7c70e6d448ac8c665d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cihat\.gradle\caches\transforms-3\bcf0a7f89a86f6d4f9325650aa793c12\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Cihat\.gradle\caches\transforms-3\bcf0a7f89a86f6d4f9325650aa793c12\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\7fa2d596a67e18cf5b02ce70329dee22\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\7fa2d596a67e18cf5b02ce70329dee22\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\57009df69d93f682248612d29fde1878\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\57009df69d93f682248612d29fde1878\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\50c9b79e24d455acf17e324c86361971\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Cihat\.gradle\caches\transforms-3\50c9b79e24d455acf17e324c86361971\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\a0c54e5a5b836c521654eb7d6f24ff04\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\a0c54e5a5b836c521654eb7d6f24ff04\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\62223cbb74317ef76ff7eb081655286e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\62223cbb74317ef76ff7eb081655286e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\9edb71a4cf70a56b2680b40a306389f2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\9edb71a4cf70a56b2680b40a306389f2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\e39b423026b1b082f2834f4a58699f46\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\e39b423026b1b082f2834f4a58699f46\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\355e167dfdd410190b779add969f15d2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\355e167dfdd410190b779add969f15d2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\4ca32d5f74ab7955d4581469f785bca1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\4ca32d5f74ab7955d4581469f785bca1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\664489175997e7c8631edafd7f36ea1b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\664489175997e7c8631edafd7f36ea1b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\c2317612b034102b495a1a71ecf5b899\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\c2317612b034102b495a1a71ecf5b899\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\30158dcefb28381c2c31b45c390a196e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Cihat\.gradle\caches\transforms-3\30158dcefb28381c2c31b45c390a196e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+		ADDED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml
+		INJECTED from G:\My-Projects\Instagram-Clone\InstagramClone\app\src\main\AndroidManifest.xml

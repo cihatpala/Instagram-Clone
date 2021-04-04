@@ -1,0 +1,24 @@
+com/pala/instagramclone/Home/SectionsPagerAdapter.java
+ com.pala.instagramclone.Home.SectionsPagerAdapter
+com/pala/instagramclone/Profile/ProfileActivity.java
+ com.pala.instagramclone.Profile.ProfileActivity
+ com.pala.instagramclone.Profile.ProfileActivity$1
+com/pala/instagramclone/Search/SearchActivity.java
+ com.pala.instagramclone.Search.SearchActivity
+com/pala/instagramclone/Likes/LikesActivity.java
+ com.pala.instagramclone.Likes.LikesActivity
+com/pala/instagramclone/Home/MainActivity.java
+ com.pala.instagramclone.Home.MainActivity
+com/pala/instagramclone/BuildConfig.java
+ com.pala.instagramclone.BuildConfig
+com/pala/instagramclone/Home/HomeFragment.java
+ com.pala.instagramclone.Home.HomeFragment
+com/pala/instagramclone/Utils/BottomNavigationViewHelper.java
+ com.pala.instagramclone.Utils.BottomNavigationViewHelper
+ com.pala.instagramclone.Utils.BottomNavigationViewHelper$1
+com/pala/instagramclone/Share/ShareActivity.java
+ com.pala.instagramclone.Share.ShareActivity
+com/pala/instagramclone/Home/CameraFragment.java
+ com.pala.instagramclone.Home.CameraFragment
+com/pala/instagramclone/Home/MessagesFragment.java
+ com.pala.instagramclone.Home.MessagesFragment

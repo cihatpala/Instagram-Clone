@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_house.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_house.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_bottom_navigation_view.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\layout_bottom_navigation_view.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_circle.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_circle.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_grey_border.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-v24\\grey_border.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_snippet_top_profile.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\snippet_top_profile.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_alert.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_alert.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_android.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_android.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_alert.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_alert.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_android.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_android.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_messages.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_center_viewpager.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\layout_center_viewpager.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_house.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_house.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_top_tabs.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\layout_top_tabs.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_android.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_android.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_android.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_android.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_gray_border_bottom.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable\\white_gray_border_bottom.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_black_border.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-v24\\black_border.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_circle.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_alert.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_alert.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_alert.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_android.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_android.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_house.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_house.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_house.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_house.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_camera.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_snippet_top_profilebar.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\snippet_top_profilebar.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\menu_profile_menu.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\menu\\profile_menu.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_alert.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_android.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_android.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_house.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_house.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_circle.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_circle.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_center_profile.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\layout_center_profile.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_gray_border_top.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable\\white_gray_border_top.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_circle.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_house.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_house.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_alert.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-mdpi\\ic_alert.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_camera.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_alert.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_circle.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_android.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_android.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_house.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_house.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_camera.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_camera.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_circle.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_circle.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_circle.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\drawable-hdpi\\ic_circle.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\res\\merged\\debug\\menu_custom_color.xml.flat",
+        "source": "G:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\src\\main\\res\\menu\\custom_color.xml"
+    }
+]

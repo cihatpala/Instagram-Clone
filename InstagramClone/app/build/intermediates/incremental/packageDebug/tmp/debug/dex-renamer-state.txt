@@ -1,0 +1,4 @@
+#Sun Apr 04 23:58:37 TRT 2021
+base.0=G\:\\My-Projects\\Instagram-Clone\\InstagramClone\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
